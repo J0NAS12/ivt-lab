@@ -1,2 +1,2 @@
 # ivt-lab
-#Ez a sor más.
+Ez a sor máshogyan más.
